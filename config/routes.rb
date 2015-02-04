@@ -1,4 +1,24 @@
 Rails.application.routes.draw do
+  root 'pages#index'
+
+  get 'pages/about_us'
+
+  get 'pages/contact_us'
+
+  get 'pages/our_mission'
+
+  get 'pages/activities'
+
+  get 'pages/elders_voice'
+
+  get 'pages/news'
+
+  get 'pages/youth_organizations'
+
+  get 'pages/steward'
+
+  get 'pages/annoucement'
+
   mount RailsAdmin::Engine => '/admin', as: 'rails_admin'
   devise_for :users
   # The priority is based upon order of creation: first created -> highest priority.

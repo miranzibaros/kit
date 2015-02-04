@@ -1,0 +1,47 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2015-01-20
+  title: MyString
+  name: MyString
+  description: MyText
+  tithe: 1
+  camp_meeting_off: 1
+  sabbath_school: 1
+  thanks_giving: 1
+  devine: 1
+  district_project_fund: 1
+  local_church_building: 1
+  lunch: 1
+  social_and_welfare: 1
+  prime_radio: 1
+  operation_unity: 1
+  comp_meeting_exp: 1
+  kyado: 1
+  kireka_hospital: 1
+  others: 1
+  total: 1
+  receipt_no: 1
+
+two:
+  date: 2015-01-20
+  title: MyString
+  name: MyString
+  description: MyText
+  tithe: 1
+  camp_meeting_off: 1
+  sabbath_school: 1
+  thanks_giving: 1
+  devine: 1
+  district_project_fund: 1
+  local_church_building: 1
+  lunch: 1
+  social_and_welfare: 1
+  prime_radio: 1
+  operation_unity: 1
+  comp_meeting_exp: 1
+  kyado: 1
+  kireka_hospital: 1
+  others: 1
+  total: 1
+  receipt_no: 1
